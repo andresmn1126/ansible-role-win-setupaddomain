@@ -14,7 +14,7 @@ ad_domain:
 ```
 - hosts: windows
   become: true
-  vars_file:
+  vars_files:
     - ad.yml
   roles:
     - ansible-role-win-setupaddomain
