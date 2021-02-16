@@ -3,6 +3,7 @@ Roles defaults to install DHCP and Print services as well, can be overriden by s
 
 ## Usage:
 Create vars file and specify required variables
+
 `ad.yml`
 ```
 ad_domain:
