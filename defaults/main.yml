@@ -1,0 +1,6 @@
+---
+additional_win_features:
+  - DHCP
+  - Print-Services
+
+install_additional_features: true
